@@ -1,0 +1,64 @@
+    
+    #segunda{
+        background-color: black;
+        color:white;}
+    #porq{
+            background-color: black;
+            color:white;}
+
+    .pequeña{
+
+        margin: auto;
+        width: 1350px; height: 450px;}
+
+    .mediana_1{
+             width: 350px; height: 200px;   
+            } 
+     
+    .mediana_2{
+            width: 350px; height: 200px;  
+        }
+    
+    .mediana_3{
+            width: 350px; height: 200px;
+        }
+        
+    #primera{
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        
+    #segunda{
+            display: flex;       
+            justify-content:space-around;
+            padding: 20px;
+        }
+        
+        
+    #porq{
+            display: flex;       
+            justify-content:center ;
+            padding: 20px;}
+            
+    .center{ 
+             text-align: center;
+}
+
+#servicios{ padding: 20px;}
+#comunidad{ padding: 20px; }
+#full{ padding: 20px; }
+#experiencia { padding: 20px; }
+#liderazgo{padding: 20px; }
+#serv{ padding: 20px; }
+#zona{ padding: 20px; }
+
+.fa-hourglass-end{  font-size: 80px; 
+   
+}
+.fa-user-circle{ font-size: 80px;
+}
+.fa-handshake{font-size: 80px; }
+.fa-sun{ font-size: 80px; }
+
+    
